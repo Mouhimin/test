@@ -1,0 +1,20 @@
+npm-:node package manager -for js
+yarn-:yet another resource negotiator-js
+maven-:JAVA
+nuget-:dot net
+these are all package managers and they manage resources.
+
+----------------------------DOM------------------------------
+                'DOCUMENT OBJECT MODEL'
+OBJECT IS A REAL WORLD ENTITY.
+WE HAVE PROPERTIES OF OBJECTS THAT CAN BE MANIPULATED BY FUNCTIONS
+TWO METHODS : GET AND SET 
+CLASS IS USERDEFINED DATA TYPE
+TWO MEMORIES : STACK AND HEAP
+CLASSES : STORED IN HEAP MEMORY
+OOPS PROPERTIES:
+INHERITANCE
+ENCAPSULATION
+ABSTRACTION
+POLYMORPHISM
+TYPESCRIPT IS TRANSPILER-OUTPUT ALWAYS IN JS
